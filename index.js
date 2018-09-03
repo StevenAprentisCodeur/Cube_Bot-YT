@@ -109,7 +109,7 @@ bot.on('message', function (message) {
 	if(message.content === 'bn')
 		message.reply("Moi aussi j'aime les BN :troll: ")
 
-	if(message.content === '@Steven-ADev#1843') 
+	if(message.content === '@Steven-ADev') 
 		message.reply("Vous appeller le grand maitre. Patientez a un moment il viendra ....,");
 
 	
